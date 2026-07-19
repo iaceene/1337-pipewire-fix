@@ -121,7 +121,12 @@ else
     fi
 fi
 
-xdg-open "https://github.com/iaceene"
+if [[ -x "$START_AUDIO_DEST" ]]; then
+    log "Starting audio (logs suppressed) — process detached from this shell."
+    nohup "$START_AUDIO_DEST" >/dev/null 2>&1 &
+    disown
+else
+    warn "$START_AUDIO_DEST not found or not executable — skipping auto-start."
+fi
 
-log "Done. Run 'source ~/.zshrc' (or open a new terminal), then use: start-audio"
-log "Follow me on github <3"
+log "Done. Run 'source ~/.zshrc' (or open a new terminal) to pick up the 'start-audio' alias."
