@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Start Audio
+Comment=Start PipeWire and WirePlumber
+Exec=/bin/bash -c "$HOME/.start-audio.sh"
+Terminal=false
+X-GNOME-Autostart-enabled=true

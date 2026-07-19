@@ -1,0 +1,50 @@
+PipeWire T2 Audio Fix — Use-Only License
+
+Copyright (c) 2026 Yassine Ajagrou
+All Rights Reserved.
+
+1. Grant of Use
+   Permission is granted to any individual to download, install, and run
+   this software (the "Software"), including install-audio.sh,
+   start-audio.sh, and audio.desktop, for personal or internal use on
+   their own machine(s), free of charge.
+
+2. Restrictions
+   Except for the limited right to use the Software granted in Section 1,
+   no other rights are granted. Without prior written permission from the
+   copyright holder, you may NOT:
+     a. Copy, reproduce, or duplicate the Software or any part of it;
+     b. Redistribute, publish, upload, or share the Software or any part
+        of it, in original or modified form, with any third party;
+     c. Modify, adapt, translate, or create derivative works based on the
+        Software, except for private modifications kept solely on your own
+        machine(s) and not shared with others;
+     d. Sell, sublicense, rent, or lease the Software;
+     e. Remove or alter any copyright, attribution, or license notices
+        contained in the Software.
+
+3. No Distribution Rights
+   The Software may only be obtained directly from the copyright holder or
+   an official source designated by the copyright holder. Mirroring,
+   forking, or otherwise hosting copies of the Software elsewhere is not
+   permitted under this license.
+
+4. No Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY
+   CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE, INCLUDING BUT NOT LIMITED TO ANY AUDIO CONFIGURATION CHANGES
+   MADE TO YOUR SYSTEM.
+
+5. Termination
+   This license and the rights granted under it terminate automatically if
+   you violate any of its terms. Upon termination, you must cease all use
+   of the Software and delete all copies in your possession.
+
+6. Contact
+   For permission requests beyond the scope of this license (redistribution,
+   modification for sharing, commercial use, etc.), contact the copyright
+   holder directly.
