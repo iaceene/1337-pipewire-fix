@@ -129,4 +129,7 @@ else
     warn "$START_AUDIO_DEST not found or not executable — skipping auto-start."
 fi
 
-log "Done. Run 'source ~/.zshrc' (or open a new terminal) to pick up the 'start-audio' alias."
+
+xdg-open "https://github.com/iaceene"
+log "Done. If audio still not working for you run 'source ~/.zshrc' (or open a new terminal) to pick up the 'start-audio' alias."
+log "Follow me on github <3"
