@@ -5,6 +5,8 @@ Macs running Ubuntu 22.04. It sets up a **user-level** PipeWire config that
 bypasses the broken system config, plus an autostart entry and a `zsh` alias
 to launch it easily.
 
+![POC](/assets/img.gif)
+
 ## Files
 
 | File               | Purpose                                                              |
